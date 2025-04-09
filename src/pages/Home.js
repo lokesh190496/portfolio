@@ -203,7 +203,6 @@
 
 // export default Home;
 
-
 import React, { useState, useEffect } from "react";
 import { Grid, Typography, Container, Box } from "@mui/material";
 import { motion, AnimatePresence } from "framer-motion";
