@@ -170,7 +170,7 @@ const Home = () => {
               <Box
                 sx={{
                   width: "100%",
-                  maxWidth: { xs: "90%", sm: "80%", md: "600px", lg: "700px" },
+                  maxWidth: { xs: "90%", sm: "80%", md: "800px", lg: "2000px" },
                   borderRadius: "15px",
                   overflow: "hidden",
                   boxShadow: "0px 10px 40px rgba(0, 0, 0, 0.3)",
