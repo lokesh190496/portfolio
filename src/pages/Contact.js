@@ -90,7 +90,7 @@ const Contact = () => {
             </Box>
             <Box display="flex" alignItems="center" gap={2} mt={2}>
               <FaEnvelope color="#FF5733" size={20} />
-              <Typography>lokeshvasu@gmail.com</Typography>
+              <Typography>lokeshvasu63@gmail.com</Typography>
             </Box>
             <Box display="flex" alignItems="center" gap={2} mt={2}>
               <FaMapMarkerAlt color="#28A745" size={20} />
